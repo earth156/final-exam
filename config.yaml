@@ -1,0 +1,5 @@
+mysql:
+  dsn: "cp_65011212091:65011212091@csmsu@tcp(202.28.34.197:3306)/cp_65011212091?collation=utf8mb4_unicode_ci&parseTime=true"
+  # username=landmark,pass=landmark@csmsu,port=202.28.34.197:3306,namedata=landmark
+server:
+  port: "8081"
